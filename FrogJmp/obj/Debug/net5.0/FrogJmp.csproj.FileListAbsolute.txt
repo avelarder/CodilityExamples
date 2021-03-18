@@ -1,0 +1,16 @@
+C:\temp\Codility\FrogJmp\bin\Debug\net5.0\FrogJmp.exe
+C:\temp\Codility\FrogJmp\bin\Debug\net5.0\FrogJmp.deps.json
+C:\temp\Codility\FrogJmp\bin\Debug\net5.0\FrogJmp.runtimeconfig.json
+C:\temp\Codility\FrogJmp\bin\Debug\net5.0\FrogJmp.runtimeconfig.dev.json
+C:\temp\Codility\FrogJmp\bin\Debug\net5.0\FrogJmp.dll
+C:\temp\Codility\FrogJmp\bin\Debug\net5.0\ref\FrogJmp.dll
+C:\temp\Codility\FrogJmp\bin\Debug\net5.0\FrogJmp.pdb
+C:\temp\Codility\FrogJmp\obj\Debug\net5.0\FrogJmp.csprojAssemblyReference.cache
+C:\temp\Codility\FrogJmp\obj\Debug\net5.0\FrogJmp.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\Codility\FrogJmp\obj\Debug\net5.0\FrogJmp.AssemblyInfoInputs.cache
+C:\temp\Codility\FrogJmp\obj\Debug\net5.0\FrogJmp.AssemblyInfo.cs
+C:\temp\Codility\FrogJmp\obj\Debug\net5.0\FrogJmp.csproj.CoreCompileInputs.cache
+C:\temp\Codility\FrogJmp\obj\Debug\net5.0\FrogJmp.dll
+C:\temp\Codility\FrogJmp\obj\Debug\net5.0\ref\FrogJmp.dll
+C:\temp\Codility\FrogJmp\obj\Debug\net5.0\FrogJmp.pdb
+C:\temp\Codility\FrogJmp\obj\Debug\net5.0\FrogJmp.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\temp\Codility\TapeEquilibrium\bin\Debug\net5.0\TapeEquilibrium.exe
+C:\temp\Codility\TapeEquilibrium\bin\Debug\net5.0\TapeEquilibrium.deps.json
+C:\temp\Codility\TapeEquilibrium\bin\Debug\net5.0\TapeEquilibrium.runtimeconfig.json
+C:\temp\Codility\TapeEquilibrium\bin\Debug\net5.0\TapeEquilibrium.runtimeconfig.dev.json
+C:\temp\Codility\TapeEquilibrium\bin\Debug\net5.0\TapeEquilibrium.dll
+C:\temp\Codility\TapeEquilibrium\bin\Debug\net5.0\ref\TapeEquilibrium.dll
+C:\temp\Codility\TapeEquilibrium\bin\Debug\net5.0\TapeEquilibrium.pdb
+C:\temp\Codility\TapeEquilibrium\obj\Debug\net5.0\TapeEquilibrium.csprojAssemblyReference.cache
+C:\temp\Codility\TapeEquilibrium\obj\Debug\net5.0\TapeEquilibrium.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\Codility\TapeEquilibrium\obj\Debug\net5.0\TapeEquilibrium.AssemblyInfoInputs.cache
+C:\temp\Codility\TapeEquilibrium\obj\Debug\net5.0\TapeEquilibrium.AssemblyInfo.cs
+C:\temp\Codility\TapeEquilibrium\obj\Debug\net5.0\TapeEquilibrium.csproj.CoreCompileInputs.cache
+C:\temp\Codility\TapeEquilibrium\obj\Debug\net5.0\TapeEquilibrium.dll
+C:\temp\Codility\TapeEquilibrium\obj\Debug\net5.0\ref\TapeEquilibrium.dll
+C:\temp\Codility\TapeEquilibrium\obj\Debug\net5.0\TapeEquilibrium.pdb
+C:\temp\Codility\TapeEquilibrium\obj\Debug\net5.0\TapeEquilibrium.genruntimeconfig.cache

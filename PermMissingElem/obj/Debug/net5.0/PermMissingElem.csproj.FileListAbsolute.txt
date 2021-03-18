@@ -1,0 +1,16 @@
+C:\temp\Codility\PermMissingElem\bin\Debug\net5.0\PermMissingElem.exe
+C:\temp\Codility\PermMissingElem\bin\Debug\net5.0\PermMissingElem.deps.json
+C:\temp\Codility\PermMissingElem\bin\Debug\net5.0\PermMissingElem.runtimeconfig.json
+C:\temp\Codility\PermMissingElem\bin\Debug\net5.0\PermMissingElem.runtimeconfig.dev.json
+C:\temp\Codility\PermMissingElem\bin\Debug\net5.0\PermMissingElem.dll
+C:\temp\Codility\PermMissingElem\bin\Debug\net5.0\ref\PermMissingElem.dll
+C:\temp\Codility\PermMissingElem\bin\Debug\net5.0\PermMissingElem.pdb
+C:\temp\Codility\PermMissingElem\obj\Debug\net5.0\PermMissingElem.csprojAssemblyReference.cache
+C:\temp\Codility\PermMissingElem\obj\Debug\net5.0\PermMissingElem.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\Codility\PermMissingElem\obj\Debug\net5.0\PermMissingElem.AssemblyInfoInputs.cache
+C:\temp\Codility\PermMissingElem\obj\Debug\net5.0\PermMissingElem.AssemblyInfo.cs
+C:\temp\Codility\PermMissingElem\obj\Debug\net5.0\PermMissingElem.csproj.CoreCompileInputs.cache
+C:\temp\Codility\PermMissingElem\obj\Debug\net5.0\PermMissingElem.dll
+C:\temp\Codility\PermMissingElem\obj\Debug\net5.0\ref\PermMissingElem.dll
+C:\temp\Codility\PermMissingElem\obj\Debug\net5.0\PermMissingElem.pdb
+C:\temp\Codility\PermMissingElem\obj\Debug\net5.0\PermMissingElem.genruntimeconfig.cache

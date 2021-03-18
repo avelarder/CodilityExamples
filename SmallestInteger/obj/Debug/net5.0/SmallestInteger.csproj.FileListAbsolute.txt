@@ -1,0 +1,16 @@
+C:\temp\Codility\SmallestInteger\obj\Debug\net5.0\SmallestInteger.csprojAssemblyReference.cache
+C:\temp\Codility\SmallestInteger\obj\Debug\net5.0\SmallestInteger.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\Codility\SmallestInteger\obj\Debug\net5.0\SmallestInteger.AssemblyInfoInputs.cache
+C:\temp\Codility\SmallestInteger\obj\Debug\net5.0\SmallestInteger.AssemblyInfo.cs
+C:\temp\Codility\SmallestInteger\obj\Debug\net5.0\SmallestInteger.csproj.CoreCompileInputs.cache
+C:\temp\Codility\SmallestInteger\bin\Debug\net5.0\SmallestInteger.exe
+C:\temp\Codility\SmallestInteger\bin\Debug\net5.0\SmallestInteger.deps.json
+C:\temp\Codility\SmallestInteger\bin\Debug\net5.0\SmallestInteger.runtimeconfig.json
+C:\temp\Codility\SmallestInteger\bin\Debug\net5.0\SmallestInteger.runtimeconfig.dev.json
+C:\temp\Codility\SmallestInteger\bin\Debug\net5.0\SmallestInteger.dll
+C:\temp\Codility\SmallestInteger\bin\Debug\net5.0\ref\SmallestInteger.dll
+C:\temp\Codility\SmallestInteger\bin\Debug\net5.0\SmallestInteger.pdb
+C:\temp\Codility\SmallestInteger\obj\Debug\net5.0\SmallestInteger.dll
+C:\temp\Codility\SmallestInteger\obj\Debug\net5.0\ref\SmallestInteger.dll
+C:\temp\Codility\SmallestInteger\obj\Debug\net5.0\SmallestInteger.pdb
+C:\temp\Codility\SmallestInteger\obj\Debug\net5.0\SmallestInteger.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\temp\Codility\trainingtask\bin\Debug\net5.0\trainingtask.exe
+C:\temp\Codility\trainingtask\bin\Debug\net5.0\trainingtask.deps.json
+C:\temp\Codility\trainingtask\bin\Debug\net5.0\trainingtask.runtimeconfig.json
+C:\temp\Codility\trainingtask\bin\Debug\net5.0\trainingtask.runtimeconfig.dev.json
+C:\temp\Codility\trainingtask\bin\Debug\net5.0\trainingtask.dll
+C:\temp\Codility\trainingtask\bin\Debug\net5.0\ref\trainingtask.dll
+C:\temp\Codility\trainingtask\bin\Debug\net5.0\trainingtask.pdb
+C:\temp\Codility\trainingtask\obj\Debug\net5.0\trainingtask.csprojAssemblyReference.cache
+C:\temp\Codility\trainingtask\obj\Debug\net5.0\trainingtask.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\Codility\trainingtask\obj\Debug\net5.0\trainingtask.AssemblyInfoInputs.cache
+C:\temp\Codility\trainingtask\obj\Debug\net5.0\trainingtask.AssemblyInfo.cs
+C:\temp\Codility\trainingtask\obj\Debug\net5.0\trainingtask.csproj.CoreCompileInputs.cache
+C:\temp\Codility\trainingtask\obj\Debug\net5.0\trainingtask.dll
+C:\temp\Codility\trainingtask\obj\Debug\net5.0\ref\trainingtask.dll
+C:\temp\Codility\trainingtask\obj\Debug\net5.0\trainingtask.pdb
+C:\temp\Codility\trainingtask\obj\Debug\net5.0\trainingtask.genruntimeconfig.cache

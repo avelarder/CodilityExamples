@@ -1,0 +1,16 @@
+C:\temp\Codility\rotateArrayRight\bin\Debug\net5.0\rotateArrayRight.exe
+C:\temp\Codility\rotateArrayRight\bin\Debug\net5.0\rotateArrayRight.deps.json
+C:\temp\Codility\rotateArrayRight\bin\Debug\net5.0\rotateArrayRight.runtimeconfig.json
+C:\temp\Codility\rotateArrayRight\bin\Debug\net5.0\rotateArrayRight.runtimeconfig.dev.json
+C:\temp\Codility\rotateArrayRight\bin\Debug\net5.0\rotateArrayRight.dll
+C:\temp\Codility\rotateArrayRight\bin\Debug\net5.0\ref\rotateArrayRight.dll
+C:\temp\Codility\rotateArrayRight\bin\Debug\net5.0\rotateArrayRight.pdb
+C:\temp\Codility\rotateArrayRight\obj\Debug\net5.0\rotateArrayRight.csprojAssemblyReference.cache
+C:\temp\Codility\rotateArrayRight\obj\Debug\net5.0\rotateArrayRight.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\Codility\rotateArrayRight\obj\Debug\net5.0\rotateArrayRight.AssemblyInfoInputs.cache
+C:\temp\Codility\rotateArrayRight\obj\Debug\net5.0\rotateArrayRight.AssemblyInfo.cs
+C:\temp\Codility\rotateArrayRight\obj\Debug\net5.0\rotateArrayRight.csproj.CoreCompileInputs.cache
+C:\temp\Codility\rotateArrayRight\obj\Debug\net5.0\rotateArrayRight.dll
+C:\temp\Codility\rotateArrayRight\obj\Debug\net5.0\ref\rotateArrayRight.dll
+C:\temp\Codility\rotateArrayRight\obj\Debug\net5.0\rotateArrayRight.pdb
+C:\temp\Codility\rotateArrayRight\obj\Debug\net5.0\rotateArrayRight.genruntimeconfig.cache

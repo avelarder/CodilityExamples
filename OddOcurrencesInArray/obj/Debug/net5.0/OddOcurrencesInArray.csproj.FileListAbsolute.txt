@@ -1,0 +1,16 @@
+C:\temp\Codility\OddOcurrencesInArray\obj\Debug\net5.0\OddOcurrencesInArray.csprojAssemblyReference.cache
+C:\temp\Codility\OddOcurrencesInArray\obj\Debug\net5.0\OddOcurrencesInArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\Codility\OddOcurrencesInArray\obj\Debug\net5.0\OddOcurrencesInArray.AssemblyInfoInputs.cache
+C:\temp\Codility\OddOcurrencesInArray\obj\Debug\net5.0\OddOcurrencesInArray.AssemblyInfo.cs
+C:\temp\Codility\OddOcurrencesInArray\obj\Debug\net5.0\OddOcurrencesInArray.csproj.CoreCompileInputs.cache
+C:\temp\Codility\OddOcurrencesInArray\bin\Debug\net5.0\OddOcurrencesInArray.exe
+C:\temp\Codility\OddOcurrencesInArray\bin\Debug\net5.0\OddOcurrencesInArray.deps.json
+C:\temp\Codility\OddOcurrencesInArray\bin\Debug\net5.0\OddOcurrencesInArray.runtimeconfig.json
+C:\temp\Codility\OddOcurrencesInArray\bin\Debug\net5.0\OddOcurrencesInArray.runtimeconfig.dev.json
+C:\temp\Codility\OddOcurrencesInArray\bin\Debug\net5.0\OddOcurrencesInArray.dll
+C:\temp\Codility\OddOcurrencesInArray\bin\Debug\net5.0\ref\OddOcurrencesInArray.dll
+C:\temp\Codility\OddOcurrencesInArray\bin\Debug\net5.0\OddOcurrencesInArray.pdb
+C:\temp\Codility\OddOcurrencesInArray\obj\Debug\net5.0\OddOcurrencesInArray.dll
+C:\temp\Codility\OddOcurrencesInArray\obj\Debug\net5.0\ref\OddOcurrencesInArray.dll
+C:\temp\Codility\OddOcurrencesInArray\obj\Debug\net5.0\OddOcurrencesInArray.pdb
+C:\temp\Codility\OddOcurrencesInArray\obj\Debug\net5.0\OddOcurrencesInArray.genruntimeconfig.cache
